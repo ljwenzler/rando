@@ -1,8 +1,5 @@
-#!/usr/bin/env python
+
 # coding: utf-8
-
-# In[1]:
-
 
 ## Ensure files abide by a filename pattern, in this case "img-%05d.jpg"
 ## This will mean filenames should be "img-00001", "img-00002", etc.
@@ -50,7 +47,6 @@ def convert_seq_to_mov():
 convert_seq_to_mov()
 
 
-# In[ ]:
 
 
 
